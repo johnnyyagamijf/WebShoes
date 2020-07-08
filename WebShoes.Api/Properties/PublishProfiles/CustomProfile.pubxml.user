@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\WebApi</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAq2/weL8bLkqM8tYgCXR6lAAAAAACAAAAAAAQZgAAAAEAACAAAABVcML0rUd3SEaikmSznfOs829wc9Hca3GFPkCgEe+lFgAAAAAOgAAAAAIAACAAAACbpitrKxXcI8htGhcEii5QAAke/wXa0NrYpmY47UvVi4AAAABRnPFBo7mbpwfxti1oLEuWIofGAxuk4/iR1h7nFVgKD0q1QGC6X4mV+ldGZZ4j/Ab0erCvTPz5wpNeced4Xs0r7drQfHZlC+8qqze2IpaS0Dt8D51XtEHSxEfJEMkihPyk/8+8oJBEuhNVO7vcgPr0uxjSKeRX+dOzaNRVo9wFf0AAAACLFlwoDJ8IdSUslM478B/JwuSTQc4VySfxqWkuE0qdnHpxuUMSqoJ/Sr/rGE7FSZmS2Fbr+u2gZvFx15eCWDZG</EncryptedPassword>
+  </PropertyGroup>
+</Project>
